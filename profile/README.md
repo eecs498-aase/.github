@@ -15,7 +15,7 @@ Students progress through three phases of increasing complexity:
 
 | Phase | Focus | What You Build |
 |-------|-------|----------------|
-| **01** — AI-Assisted Development | Principled AI coding with Context, Model, Prompt | AI coding portfolio using Aider |
+| **01** — AI-Assisted Development | Principled AI coding (Python & TypeScript) with Context, Model, Prompt | AI coding portfolio using Aider |
 | **02** — Scripted Agent Workflows | Multi-agent protocols, state management, LLM integration | Working multi-agent orchestration system |
 | **03** — Build an Orchestrator | Task systems, tool registries, delegation, evaluation | Production-grade agent platform (from scratch) |
 
