@@ -35,7 +35,7 @@ A curated summer learning plan will be posted here to help admitted students pre
 
 ## Links
 
-- 🌐 [Course Website](https://eecs498-aase.github.io/applied-agentic-software-engineering/)
+- 🌐 [Course Website](https://eecs498-aase.github.io/)
 - 🦞 [OpenClaw](https://openclaw.ai) — The open-source platform that inspired this course
 - 📖 [OpenClaw Docs](https://docs.openclaw.ai) | [GitHub](https://github.com/openclaw/openclaw)
 
